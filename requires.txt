@@ -1,3 +1,4 @@
 "blast", "require(5596373023).load("Username")",
 "doge", "require(5115249013).fehack("Username")",
-"whatsappcar", "require(6886067324).drip("Username")"
+"whatsappcar", "require(6886067324).drip("Username")",
+"adonis", "require(16848118603).a("Username")"
